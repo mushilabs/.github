@@ -15,6 +15,7 @@ What's the right way for the problem to be solved?
 
 **Implementation**
 What's the right way to implement the solution?
+- [ ] this would be an appropriate place to list todos
 
 **Notes**
 Prerequisites, context, gotchas, etc.
