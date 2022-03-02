@@ -11,10 +11,9 @@ assignees: ''
 Define a problem. Why should something be done about it?
 
 **Solution**
-What's the right way for the problem to be solved?
+What's the right way to solve this problem?
 
 **Implementation**
-What's the right way to implement the solution?
 - [ ] this would be an appropriate place to list todos
 
 **Notes**
